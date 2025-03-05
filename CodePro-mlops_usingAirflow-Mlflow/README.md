@@ -45,7 +45,7 @@ Having junk leads in the pipeline creates significant inefficiency in the sales 
 
 ## Contact
 
-Created by [@sukhijapiyush] - feel free to contact me!
+Created by Nitish Sharma- feel free to contact me!
 
 ## License
 
